@@ -59,12 +59,12 @@ body {
   top: 1em;
 }
 
-.robot-head-right:hover {
+.robot:hover .robot-head-right {
   right: 20px;
   top: .5em;
 }
 
-.robot-head-left:hover {
+.robot:hover .robot-head-left {
   left: 20px;
   top: .5em;
 }
